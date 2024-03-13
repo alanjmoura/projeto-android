@@ -16,7 +16,7 @@ Provavelmente você sabe que o sistema operacional Android, mantido pelo Google 
 
 ## 👷 Autores
 
-* **Alan Moura** - *Desenvolvimento HTML e CSS* - [Alan Moura](https://github.com/alanjmoura)
+* **Alan Moura** - *Desenvolvimento HTML e CSS* - [@alanjmoura](https://github.com/alanjmoura)
 * **Gustavo Guanabara** - *Mentor do projeto* - [@gustavoguanabra](https://github.com/gustavoguanabara)
 
 ## 📄 Licença
@@ -25,5 +25,5 @@ Provavelmente você sabe que o sistema operacional Android, mantido pelo Google 
 
 ## 💡 Agradecimentos
 
-* Estou confiante de que o sucesso deste meu primeiro projeto não teria sido possível sem os ensinamentos e explicações do Gustavo Guanabara.
+* Estou confiante de que o sucesso deste meu primeiro projeto não teria sido possível sem os ensinamentos e explicações do Curso em Video.
 * Parar entrar em contato, mande um email para alanjoaquim11@hotmail.com
