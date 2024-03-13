@@ -1,85 +1,30 @@
-![Logo do projeto](https://i.imgur.com/kniMQHu.png)
+![Logo do projeto](https://alanjmoura.github.io/projeto-android/imagens/dan-droids.png)
 
-# Nome do Projeto
+# Como surgiu o mascote do Android 
 
-Uma breve descrição do projeto aqui.
+CURIOSIDADES DE TECNOLOGIA
+Tudo aquilo que você sempre quis saber sobre o mundo Tech, em um único artigo
 
 ## 🔥 Introdução
 
-Coloque aqui as instruções e quais são os objetivos desse projeto, funcionalidades.
-
-### ⚙️ Pré-requisitos
-
-Coloque aqui passo a passo que precisa para instalar o projeto e como instalá-lo.
-
-```
-Pode inserir exemplos.
-```
-
-### 🔨 Guia de instalação
-
-Explique aqui um passo a passo mostrando como deve executar para ter um ambiente de desenvolvimento em execução, desde instalar e rodar o projeto.
-
-Etapas para instalar:
-
-```
-Codigo, exemplos
-```
-Passo 2:
-```
-Codigo, exemplos
-```
-
-
-## 🛠️ Executando os testes (caso tenha testes)
-
-Explique como executar os testes automatizados para este sistema.
-
-```
-Coloque exemplos
-```
+Provavelmente você sabe que o sistema operacional Android, mantido pelo Google é um dos mais utilizados para dispositivos móveis em todo o mundo. Mas tavez você não saiba que o seu simpático mascote tem um nome e uma história muito curiosa? Pois acompanhe esse artigo para aprender muita coisa sobre esse robozinho.
 
 ## 📦 Tecnologias usadas:
 
-Coloque aqui as ferramentas que você usou para criar seu projeto, exemplo:
-
-* [React JS](https://react.dev/) - A biblioteca usada.
-* [TailwindCSS](https://tailwindcss.com/) - Biblioteca CSS. 
-
-Ou pode separar por stacks:
-
 **Front-end:**
-* [React JS](https://react.dev/)
-* [TailwindCSS](https://tailwindcss.com/)
-
-**Back-end:**
-* [NodeJS](https://nodejs.org/).
-* [TypeScript](https://www.typescriptlang.org/) 
-* [Mongo DB](https://mongodb.com/)
+* [HTML5](https://html5up.net/)
+* [CSS3](https://html5up.net/)
 
 ## 👷 Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início, colaboradores.
-
-* **Nome do dev** - *Função realizada* - [nome_do_dev](https://github.com/link_do_Perfil)
-* **Sujeito Programador** - *Frontend do projeto* - [@sujeitoprogramador](https://github.com/devfraga)
+* **Alan Moura** - *Desenvolvimento HTML e CSS* - [Alan Moura](https://github.com/alanjmoura)
+* **Gustavo Guanabara** - *Mentor do projeto* - [@gustavoguanabra](https://github.com/gustavoguanabara)
 
 ## 📄 Licença
 
-Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
+-
 
-## 💭 FAQ - Perguntas frequentes
-
-#### Questão 1
-
-Resposta 1
-
-#### Questão 2
-
-Resposta 2
-
-
-## 💡 Expressões de gratidão
+## 💡 Agradecimentos
 
 * Um agradecimento publicamente.
-* Para suporte, mande um email para nome@teste.com.
+* Parar entrar em contato, mande um email para alanjoaquim11@hotmail.com.
