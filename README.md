@@ -2,7 +2,6 @@
 
 # Como surgiu o mascote do Android 
 
-CURIOSIDADES DE TECNOLOGIA
 Tudo aquilo que você sempre quis saber sobre o mundo Tech, em um único artigo
 
 ## 🔥 Introdução
@@ -12,8 +11,8 @@ Provavelmente você sabe que o sistema operacional Android, mantido pelo Google 
 ## 📦 Tecnologias usadas:
 
 **Front-end:**
-* [HTML5](https://html5up.net/)
-* [CSS3](https://html5up.net/)
+* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 👷 Autores
 
