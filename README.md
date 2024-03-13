@@ -25,5 +25,5 @@ Provavelmente você sabe que o sistema operacional Android, mantido pelo Google 
 
 ## 💡 Agradecimentos
 
-* Um agradecimento publicamente.
-* Parar entrar em contato, mande um email para alanjoaquim11@hotmail.com.
+* Estou confiante de que o sucesso deste meu primeiro projeto não teria sido possível sem os ensinamentos e explicações do Gustavo Guanabara.
+* Parar entrar em contato, mande um email para alanjoaquim11@hotmail.com
